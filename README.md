@@ -1,2 +1,2 @@
-# Atividade---Flip-de-Cores-Js
-Mudança de cor aleatoria curso
+# Atividade---Flip-de-Cores-JS
+Atividade desenvolvida para aprendizado em JS
